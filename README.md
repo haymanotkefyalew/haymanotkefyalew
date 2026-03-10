@@ -31,7 +31,7 @@ Currently pursuing **Computer Science at AAU**.
 ---
 
 ## 📊 GitHub Stats
-![haymanotkefyalew's GitHub stats](https://github-readme-stats.vercel.app/api?username=haymanotkefyalew&show_icons=true&theme=radical)  
+![haymanotkefyalew's GitHub stats](https://github-readme-stats.vercel.app/api?username=https//github.com/haymanotkefyalew&show_icons=true&theme=radical)  
 
 ---
 
